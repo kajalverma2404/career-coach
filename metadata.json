@@ -1,0 +1,5 @@
+{
+  "name": "Career Coach",
+  "description": "A high-fidelity career advisory platform leveraging Gemini 3 Pro with real-time Google Search grounding to provide data-driven career strategy and market analysis.",
+  "requestFramePermissions": []
+}
